@@ -5,6 +5,12 @@ A **Flask-based monitoring solution** that provides real-time insights into your
 
 ---
 
+## Submits:
+- Maor Ryngler
+- Amit Tal Levi
+
+---
+  
 ##  Features
 
 - **Real-time Monitoring** of AWS resources
@@ -101,8 +107,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
 
-## Submits:
-- Maor Ryngler
-- Amit Tal Levi 
